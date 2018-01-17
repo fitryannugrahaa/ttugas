@@ -16,3 +16,6 @@ int main(){
 	serigalarusia.warnaBulu = "PUTIH";
 	serigalaarktik.warnaBulu = "HITAM";
 	
+	serigalamerah.jenisMakanan = "Rusa.";
+	serigalarusia.jenisMakanan = "Kijang.";
+	serigalaarktik.jenisMakanan = "Babi Hutan.";
