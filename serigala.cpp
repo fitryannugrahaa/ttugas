@@ -9,3 +9,10 @@ class serigala{
 		string warnaBulu;
 };
 
+int main(){
+	serigala serigalamerah,serigalarusia,serigalaarktik;
+	
+	serigalamerah.warnaBulu = "COKLAT";
+	serigalarusia.warnaBulu = "PUTIH";
+	serigalaarktik.warnaBulu = "HITAM";
+	
